@@ -1,10 +1,6 @@
-# CMPE250_2017Fall_Project4
-
-Due date: 21.12.2017 23:59
+# Automatic Differentiation
 
 Please check out Project4.pdf for description of the project.
-
-Due date is a strict due date!
 
 ## How to compile
 
